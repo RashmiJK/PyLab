@@ -30,8 +30,23 @@ Notice how the input grows exponentially (2, 4, 8, 16...), but the logarithm val
     10 elements ≈ log₂(10) ≈ 3.32 steps (max)  
     1,000 elements ≈ log₂(1000) ≈ 10 steps (max)  
     1,000,000 elements ≈ log₂(1,000,000) ≈ 20 steps (max)  
-    O(log n) Is Efficient. 
+    O(log n) Is Efficient.  
 This is why search algorithms like binary search, balanced binary search trees - they scale exceptionally well as data size increases.
 
 ## O(n) - Linear time
+Operations that process each element in the input exactly once. The execution time grows linearly with the input size. It examines each element exactly once, regardless of the array's content or order.
 
+## O(n log n) - Linearithmic Time
+This complexity often appears in efficient sorting algorithms like Merge Sort, Quick Sort, and Heap Sort. Linearithmic time complexity combines linear and logarithmic growth rates. 
+
+
+## O(n<sup>2</sup>) - Quadratic Time
+Operations that involve nested iterations over the input. Example bubble sort.
+
+## O(2<sup>N</sup>)
+
+## O(N!)
+
+
+# Summary
+![](images/graph.png)
