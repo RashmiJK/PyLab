@@ -48,5 +48,66 @@ Operations that involve nested iterations over the input. Example bubble sort.
 ## O(N!)
 
 
-# Summary
+## Summary
 ![](images/graph.png)
+
+# Patterns to solve code challenges
+1. Prefix sum  
+    <img src="images/prefixsum.png" alt="Prefix sum" width="200" height="100">  
+    Reuse the same array 👇
+    ```python
+    def crate_prefix_sum(arr):
+        for i in range(1, len(arr)):
+            arr[i] += arr[i-1]
+        return arr
+    ```
+2. Two pointers  
+<img src="images/twopointers.png" alt="Prefix sum" width="200" height="100">
+
+Eg: Palidrome
+"a b c d c b a"
+start end
+```python
+def is_palidrome(string):
+    start = 0
+    end = len(string) -1
+    while start < end:
+        if string[start] != string[end]:
+            return False
+        satrt += 1
+        end -= 1
+    return True
+```
+3. Sliding window  
+In the case like below brute force approach, sliding window technique can be used.  
+<img src="images/bruteforce.png" alt="Prefix sum" width="200" height="100">  
+<img src="images/sliding_window.png" alt="Prefix sum" width="200" height="100">  
+```python
+def max_subarray_sum_sliding_window(arr, k):
+    n = len(arr)
+    window_sum = sum(arr[:k])
+
+    max_sum = window_sum
+    max_start_index = 0
+
+    for i in range(n - k):
+        window_sum = window_sum - arr[i] + arr[i + k]
+        if window_sum > max_sum:
+            max_sum = window_sum
+            max_start_index = i + 1
+    return arr[max_start_index:max_start_index + k], max_sum
+```
+
+
+4. Fast and Slow pointers
+5. LinkedList In-place reversal
+6. Monotonic stack
+7. Top 'K' Elements
+8. Overlapping Intervals
+9. Modified Binary Search
+10. Binary Tree Traversal
+11. Depth-First Search (DFS)
+12. Breadth-First Search (BFS)
+13. Matrix Traversal
+14. Backtracking
+15. Dynamic Programming Patters
