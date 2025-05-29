@@ -98,8 +98,8 @@ def max_subarray_sum_sliding_window(arr, k):
     return arr[max_start_index:max_start_index + k], max_sum
 ```
 
+4. Fast and Slow pointers  
 
-4. Fast and Slow pointers
 5. LinkedList In-place reversal
 6. Monotonic stack
 7. Top 'K' Elements
