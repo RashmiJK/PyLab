@@ -50,7 +50,7 @@ Operations that involve nested iterations over the input. Example bubble sort.
 
 ## Summary
 ![](images/graph.png)
-
+![](images/bigO.png)
 # Patterns to solve code challenges
 1. Prefix sum  
     <img src="images/prefixsum.png" alt="Prefix sum" width="200" height="100">  
