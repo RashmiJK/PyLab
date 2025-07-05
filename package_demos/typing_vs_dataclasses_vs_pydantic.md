@@ -12,8 +12,8 @@
 | **Type Coercion** | ❌ No | ❌ No | ✅ Yes (automatic type conversion) |
 | **Validation Rules** | ❌ No | ❌ No | ✅ Yes (Field validators, custom validators) |
 | **Error Messages** | ❌ No runtime errors | ❌ No validation errors | ✅ Detailed validation errors |
-| **Performance** | ⚡ Fast (no overhead) | ⚡ Fast | 🐌 Slower (due to validation) |
-| **Memory Usage** | 💚 Low | 💚 Low | 💛 Higher |
+| **Performance** | ⚡ Fast (no overhead) | ⚡ Fast | 🐌 Slightly slower (due to validation, but optimized in v2) |
+| **Memory Usage** | 💚 Low | 💚 Low | 💛 Moderate (extra overhead for validation and coercion) |
 | **Schema Generation** | ❌ No | ❌ No | ✅ Yes (JSON Schema, OpenAPI) |
 | **IDE Support** | ✅ Excellent | ✅ Excellent | ✅ Excellent |
 | **Static Type Checking** | ✅ Yes (with mypy, etc.) | ✅ Yes | ✅ Yes |
