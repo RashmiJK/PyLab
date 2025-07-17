@@ -1,0 +1,1188 @@
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": "",
+        "function_call": null,
+        "refusal": null,
+        "role": "assistant",
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content='', function_call=None, refusal=None, role='assistant', tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": "Sure",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content='Sure', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": "!",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content='!', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " Double",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' Double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bubble",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bath",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": ",",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " double",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bubble",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bath",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": ",",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " double",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bubble",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bath",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": ",",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " double",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bubble",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bath",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": ",",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " double",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bubble",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bath",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": ",",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " double",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bubble",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bath",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": ",",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " double",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bubble",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bath",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": ",",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " double",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bubble",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bath",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": ",",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " double",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bubble",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bath",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": ",",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " double",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bubble",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": " bath",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": "!",
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content='!', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
+********************************************************************************
+{
+  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+  "choices": [
+    {
+      "delta": {
+        "content": null,
+        "function_call": null,
+        "refusal": null,
+        "role": null,
+        "tool_calls": null
+      },
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null
+    }
+  ],
+  "created": 1752617951,
+  "model": "gpt-4.1-nano-2025-04-14",
+  "object": "chat.completion.chunk",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": null
+}
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=None, function_call=None, refusal=None, role=None, tool_calls=None), finish_reason='stop', index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
+--------------------------------------------------------------------------------
