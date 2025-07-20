@@ -15,7 +15,7 @@ async def makerandom(idx: int, threshold: int = 6) -> int:
     print(c[idx + 1] + f"Initiated makerandom({idx}).")
     i = random.randint(0, 10)
     while i <= threshold:
-        print(c[idx + 1] + f"makerandom({idx}) == {i} too low; retrying.")
+        print(c[idx + 1] + f"makerandom({idx}) : {i} still <= {threshold}; retrying....")
         # asyncio.sleep() here is mimicing an IO-bound process where there is uncertain wait time involved.
         await asyncio.sleep(idx + 1)
         i = random.randint(0, 10)
