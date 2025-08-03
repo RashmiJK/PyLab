@@ -2,20 +2,26 @@ import asyncio
 from dotenv import load_dotenv
 import os
 from openai import AsyncOpenAI  # hypothetical import for AsyncOpenAI client
+import inspect
 
 async def stream_from_endpoint(client, endpoint_name, **kwargs):
     print(f"Start streaming from {endpoint_name}")
     stream = await client.chat.completions.create(stream=True, **kwargs)
+    print("---dir(stream)----")
+    print(type(stream))
+    print(inspect.isasyncgen(stream))
+    print(dir(stream))
+    print("---end----")
     async for chunk in stream:
-        print(f"[{endpoint_name}]: {chunk.choices[0].delta.content}", end='', flush=True)
+        print(f"{chunk.choices[0].delta.content}", end='', flush=True)
     print(f"\nDone streaming from {endpoint_name}")
 
 async def main():
     client1 = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))  
     client2 = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     # Define parameters for both endpoints as needed
-    params1 = {"model": "gpt-4o", "messages": [{"role": "user", "content": "What's the weather?"}]}
-    params2 = {"model": "gpt-3.5-turbo", "messages": [{"role": "user", "content": "Tell me a joke."}]}
+    params1 = {"model": "gpt-4o", "messages": [{"role": "user", "content": "Hello."}]}
+    params2 = {"model": "gpt-3.5-turbo", "messages": [{"role": "user", "content": "What is the product of 3 and 4"}]}
     
     # Run both streaming coroutines concurrently
     await asyncio.gather(

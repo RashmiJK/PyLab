@@ -1,168 +1,14 @@
+type: <class 'openai.Stream'> | Is Generator? False | Is Iterator? True 
+
+
+Double
+ bubble
+ bath
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
-  "choices": [
-    {
-      "delta": {
-        "content": "",
-        "function_call": null,
-        "refusal": null,
-        "role": "assistant",
-        "tool_calls": null
-      },
-      "finish_reason": null,
-      "index": 0,
-      "logprobs": null
-    }
-  ],
-  "created": 1752617951,
-  "model": "gpt-4.1-nano-2025-04-14",
-  "object": "chat.completion.chunk",
-  "service_tier": "default",
-  "system_fingerprint": null,
-  "usage": null
-}
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content='', function_call=None, refusal=None, role='assistant', tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
---------------------------------------------------------------------------------
-********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
-  "choices": [
-    {
-      "delta": {
-        "content": "Sure",
-        "function_call": null,
-        "refusal": null,
-        "role": null,
-        "tool_calls": null
-      },
-      "finish_reason": null,
-      "index": 0,
-      "logprobs": null
-    }
-  ],
-  "created": 1752617951,
-  "model": "gpt-4.1-nano-2025-04-14",
-  "object": "chat.completion.chunk",
-  "service_tier": "default",
-  "system_fingerprint": null,
-  "usage": null
-}
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content='Sure', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
---------------------------------------------------------------------------------
-********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
-  "choices": [
-    {
-      "delta": {
-        "content": "!",
-        "function_call": null,
-        "refusal": null,
-        "role": null,
-        "tool_calls": null
-      },
-      "finish_reason": null,
-      "index": 0,
-      "logprobs": null
-    }
-  ],
-  "created": 1752617951,
-  "model": "gpt-4.1-nano-2025-04-14",
-  "object": "chat.completion.chunk",
-  "service_tier": "default",
-  "system_fingerprint": null,
-  "usage": null
-}
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content='!', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
---------------------------------------------------------------------------------
-********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
-  "choices": [
-    {
-      "delta": {
-        "content": " Double",
-        "function_call": null,
-        "refusal": null,
-        "role": null,
-        "tool_calls": null
-      },
-      "finish_reason": null,
-      "index": 0,
-      "logprobs": null
-    }
-  ],
-  "created": 1752617951,
-  "model": "gpt-4.1-nano-2025-04-14",
-  "object": "chat.completion.chunk",
-  "service_tier": "default",
-  "system_fingerprint": null,
-  "usage": null
-}
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' Double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
---------------------------------------------------------------------------------
-********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
-  "choices": [
-    {
-      "delta": {
-        "content": " bubble",
-        "function_call": null,
-        "refusal": null,
-        "role": null,
-        "tool_calls": null
-      },
-      "finish_reason": null,
-      "index": 0,
-      "logprobs": null
-    }
-  ],
-  "created": 1752617951,
-  "model": "gpt-4.1-nano-2025-04-14",
-  "object": "chat.completion.chunk",
-  "service_tier": "default",
-  "system_fingerprint": null,
-  "usage": null
-}
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
---------------------------------------------------------------------------------
-********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
-  "choices": [
-    {
-      "delta": {
-        "content": " bath",
-        "function_call": null,
-        "refusal": null,
-        "role": null,
-        "tool_calls": null
-      },
-      "finish_reason": null,
-      "index": 0,
-      "logprobs": null
-    }
-  ],
-  "created": 1752617951,
-  "model": "gpt-4.1-nano-2025-04-14",
-  "object": "chat.completion.chunk",
-  "service_tier": "default",
-  "system_fingerprint": null,
-  "usage": null
-}
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
---------------------------------------------------------------------------------
-********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -177,19 +23,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+,
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -204,19 +51,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ double
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -231,19 +79,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bubble
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -258,19 +107,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bath
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -285,19 +135,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+,
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -312,19 +163,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ double
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -339,19 +191,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bubble
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -366,19 +219,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bath
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -393,19 +247,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+,
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -420,19 +275,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ double
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -447,19 +303,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bubble
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -474,19 +331,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bath
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -501,19 +359,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+,
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -528,19 +387,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ double
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -555,19 +415,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bubble
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -582,19 +443,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bath
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -609,19 +471,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+,
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -636,19 +499,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ double
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -663,19 +527,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bubble
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -690,19 +555,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bath
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -717,19 +583,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+,
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -744,19 +611,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ double
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -771,19 +639,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bubble
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -798,19 +667,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bath
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -825,19 +695,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+,
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -852,19 +723,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ double
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -879,19 +751,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bubble
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -906,19 +779,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bath
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -933,19 +807,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+,
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -960,19 +835,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ double
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -987,19 +863,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bubble
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -1014,19 +891,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bath
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -1041,19 +919,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=',', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+,
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -1068,19 +947,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' double', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ double
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -1095,19 +975,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bubble', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bubble
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -1122,23 +1003,24 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=' bath', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+ bath
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
-        "content": "!",
+        "content": ".",
         "function_call": null,
         "refusal": null,
         "role": null,
@@ -1149,19 +1031,20 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content='!', function_call=None, refusal=None, role=None, tool_calls=None), finish_reason=None, index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------
+.
 ********************************************************************************
-{
-  "id": "chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD",
+Type of chunk: <class 'openai.types.chat.chat_completion_chunk.ChatCompletionChunk'>
+Raw JSON chunk:
+ {
+  "id": "chatcmpl-C0QPu9tDVXPwbfoQW6WNjZGPcA3t9",
   "choices": [
     {
       "delta": {
@@ -1176,13 +1059,11 @@ ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice
       "logprobs": null
     }
   ],
-  "created": 1752617951,
+  "created": 1754217582,
   "model": "gpt-4.1-nano-2025-04-14",
   "object": "chat.completion.chunk",
   "service_tier": "default",
-  "system_fingerprint": null,
+  "system_fingerprint": "fp_38343a2f8f",
   "usage": null
 }
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ChatCompletionChunk(id='chatcmpl-BtiHPi7aWnlRqDMtDsEWmENGoeXBD', choices=[Choice(delta=ChoiceDelta(content=None, function_call=None, refusal=None, role=None, tool_calls=None), finish_reason='stop', index=0, logprobs=None)], created=1752617951, model='gpt-4.1-nano-2025-04-14', object='chat.completion.chunk', service_tier='default', system_fingerprint=None, usage=None)
 --------------------------------------------------------------------------------

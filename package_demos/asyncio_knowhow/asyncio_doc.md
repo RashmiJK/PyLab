@@ -1,7 +1,8 @@
 # Asynchronous IO (async IO)
-* async/await: are keywords in Python that are used to define coroutines
-async def
-The await keyword can only be used inside an async def function.
+* async/await: are keywords in Python that are used to define coroutines. 
+ 
+  - `async def` is used to define a coroutine function.
+  - `await` is used to pause the execution of a coroutine until the awaited coroutine completes. The await keyword can only be used inside an async def function.
 asyncio.sleep()
 asyncio.gather()
 
@@ -17,7 +18,7 @@ Parallelism
 threads
 <br>
 
-![](images/async_paradigm.png)
+![](../images/async_paradigm.png)
 
 1. What are generators in python? Generator comprehension.
 2. What are coroutines and how are they related to generators?
