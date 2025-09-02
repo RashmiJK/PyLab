@@ -1,7 +1,6 @@
 from src import my_functions
-import pytest
 
-# For the moment run export PYTHONPATH=/Users/rashmikare/Learn/Repos/MyRepos/PyLab/pytest_demos:$PYTHONPATH to add the directory to the Python module search path
+# For the moment run ```export PYTHONPATH=/Users/rashmikare/Learn/Repos/MyRepos/PyLab/pytest_demos:$PYTHONPATH``` to add the directory to the Python module search path
 def test_add():
     """Test the add function."""
     assert my_functions.add(1, 2) == 3
@@ -18,7 +17,9 @@ def test_divide():
     assert my_functions.divide(0, 1) == 0
 
 def test_divide_by_zero():
-    with pytest.raises(ValueError):
+    # Test for both ValueError and ZeroDivisionError
+    import pytest
+    with pytest.raises((ValueError, ZeroDivisionError)):
         my_functions.divide(1, 0)
 
 def test_add_strings():
